@@ -1,2 +1,2 @@
-console.log("Witaj świecie!");
+console.log("Witaj świecie! :D");
 //autor: Kacper Kachel
